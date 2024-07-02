@@ -12,7 +12,14 @@
                 "daily_message": "got your daily paycheck",
                 "weekly_message": "got your weekly paycheck",
                 "monthly_message": "got your monthly paycheck",
+                "earnmoney_message": "Earn Money",
+                "commands_successfully_ran_message": "Commands successfully ran",
+                "commands_on_cooldown_message": "Commands on cooldown",
                 "tax_status_message": "Sorry, you can't use this command while tax processing is active.",
+                "total_amount_earned_message": "Total amount earned",
+                "not_supporter_message": "You need to be a supporter to use this command. Use /buymoney to learn more.",
+                "bot_promotion_message_one": "Would you like to amass a fortune and support our bot? Explore our shop for a wide range of currencies and other valuable items. Get started on your path to riches here:",
+                "bot_promotion_message_two": "Join our support server to join giveaways, get support, and updates about the bot:",
                 "beg_success_message": ["You tried begging Elon Musk but he's in debt from buying Twitter and you earned",
                         "You tried begging Andrew Tate for money but he declined and you earned",
                         "You begged a homeless man for money and he gave you",
@@ -308,5 +315,64 @@
                         ],
 
 
-            }
+            },
+            "es": {
+                "banned_message": "Se le prohíbe usar este bot.",
+                "your_balance_message": "Tu saldo",
+                "work_message": "fue a trabajar",
+                "beg_success_message": ["Intentaste mendigarle a Elon Musk pero está endeudado por comprar Twitter y ganaste",
+                        "Intentaste mendigarle a Andrew Tate pero declinó y ganaste"
+                        ],
+                "beg_fail_message": ["Intentaste mendigarle a TommyInnit por monedas pero todo lo que dijo fue 'Suscríbete a mi canal' y ganaste",
+                        "IShowSpeed te vio mendigar en el parque temático pero es tacaño y ganaste"
+                        ],
+            },
+            "fr": {
+                "banned_message": "Vous êtes interdit d'utiliser ce bot.",
+                "your_balance_message": "Votre solde",
+                "work_message": "est allé travailler",
+                "beg_success_message": ["Vous avez essayé de mendier Elon Musk mais il est endetté pour avoir acheté Twitter et vous avez gagné",
+                        "Vous avez essayé de mendier Andrew Tate mais il a refusé et vous avez gagné"
+                        ],
+                "beg_fail_message": ["Vous avez mendier TommyInnit pour des pièces mais tout ce qu'il a dit était 'Abonnez-vous à ma chaîne' et vous avez gagné",
+                        "IShowSpeed vous a vu mendier au parc à thème mais il est radin et vous avez gagné"
+                        ],
+            },
+            "tr": {
+                "banned_message": "Bu botu kullanmanız yasaktır.",
+                "your_balance_message": "Bakiyeniz",
+                "work_message": "çalışmaya gitti",
+                "beg_success_message": ["Elon Musk'tan para dilendiniz ama Twitter'ı satın alarak borçlandı ve kazandınız",
+                        "Andrew Tate'ten para dilendiniz ama reddetti ve kazandınız"
+                        ],
+                "beg_fail_message": ["TommyInnit'ten para dilendiniz ama tek söylediği 'Kanala abone ol' ve kazandınız",
+                        "IShowSpeed sizin temalı parkta dilendiğinizi fark etti ama cimri ve kazandınız"
+                        ],
+            },
+            "hi": {
+                "banned_message": "इस बॉट का उपयोग करने से आपको प्रतिबंधित किया गया है।",
+                "your_balance_message": "आपका शेष",
+                "work_message": "काम पर गया",
+                "beg_success_message": ["आपने एलॉन मस्क से पैसे मांगने की कोशिश की लेकिन उन्होंने ट्विटर खरीदने से कर्ज में डाल दिया और आपने कमाया",
+                        "आपने एंड्रू टेट से पैसे मांगने की कोशिश की लेकिन उन्होंने इनकार किया और आपने कमाया"
+                        ],
+                "beg_fail_message": ["आपने टॉमीइनिट से सिके मांगने की कोशिश की लेकिन उन्होंने कहा 'मेरे चैनल की सदस्यता लें' और आपने कमाया",
+                        "आपने आईशोवीस्पीड को थीम पार्क में मांगने के लिए देखा लेकिन वह कंजूस है और आपने कमाया"
+                        ],
+            },
+            "de": {
+                "banned_message": "Sie sind vom Verwenden dieses Bots ausgeschlossen.",
+                "your_balance_message": "Ihr Guthaben",
+                "work_message": "ging zur Arbeit",
+                "beg_success_message": ["Sie haben versucht, Elon Musk um Geld zu bitten, aber er ist durch den Kauf von Twitter verschuldet und Sie haben verdient",
+                        "Sie haben versucht, Andrew Tate um Geld zu bitten, aber er hat abgelehnt und Sie haben verdient"
+                        ],
+                "beg_fail_message": ["Sie haben TommyInnit um Münzen gebeten, aber alles, was er sagte, war 'Abonnieren Sie meinen Kanal' und Sie haben verdient",
+                        "IShowSpeed hat gesehen, dass Sie im Themenpark betteln, aber er ist geizig und Sie haben verdient"
+                        ],
+            },
+            "no": {
+                "banned_message": "Du er utestengt fra å bruke denne boten.",
+                "your_balance_message": "Din saldo",
+                "work_message": "gikk på jobb"
         }
