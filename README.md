@@ -422,7 +422,6 @@
                         "Matematik sınavının çevaplarını çaldın ve arkadaşlarına şu kadara sattın",
                         "Emir'in parasını çaldın ve şu kadar kazandın",
                         "McDonald's'ın gizli ketçap sosunun tarifini çaldın ve darkweb'te sattın ve şu kadar kazandın",
-                        "Disney'in yeni çizgi filmini çalıp şu kadara sattın",
                         "Andrew Tate'yi pataklamak için para aldın ve şu kadar kazandın",
                         "Eski bir Büyükannenin bastonunu çalıp para karşılığında şu kadara sattın",
                         "Kraliçe Elizabeth'in banka hesabını hackledin ve şu kadar çaldın",
