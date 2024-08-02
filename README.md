@@ -1,4 +1,10 @@
             "en-US": {
+                "balance_message": "Balance",
+                "bank_balance_message": "Bank Balance",
+                "total_message": "Total",
+                "withdrew_message": "withdrew",
+                "deposited_message": "deposited",
+                "cant_send_money_off_economy_message": "You can't send money to anyone due to being off the economy.",
                 "vote_for_bot_message": "Keep your voting streak going and watch your rewards grow! Earn up to millions of dollars by voting for the bot regularly.",
                 "banned_message": "You are banned from using this bot.",
                 "your_balance_message": "Your balance",
