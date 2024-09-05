@@ -303,7 +303,8 @@
                         "You worked as a janitor and earned",
                         "You worked as a Blackpink Producer and earned",
                         "You worked as a BTS Producer and earned",
-                        "You helped your grandma cook and earned"]
+                        "You helped your grandma cook and earned"
+			]
 
 
             },
